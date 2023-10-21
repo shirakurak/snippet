@@ -1,5 +1,5 @@
 # snippet
-A tool to display snippets from a specific directory
+snippet for snippet
 
 ```sh
 $ ruby tool.rb
